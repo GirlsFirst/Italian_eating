@@ -3,14 +3,14 @@ h1{
   text-align: center;
   font-style: oblique;
   font-size: 100px;
-  color: yellow;
+  color: white;
   text-decoration: underline;
 }
 
 
 #Italian{
   font-family: 'Sacramento', cursive;
-  color: yellow;
+  color: white;
   font-size: 50px;
   text-align: left;
   display: inline-block;
@@ -19,11 +19,26 @@ h1{
 
 #French{
   font-family: 'Sacramento', cursive;
-  color: yellow;
+  color: white;
   font-size: 50px;
   float: right;
   display: inline-block;
   text-decoration: underline;
+}
+
+#Italian_images{
+  float:left;
+  display: inline-block;
+}
+
+#french_images{
+  float:left;
+  display: block;
+  width: 100%;
+}
+
+#french_images img{
+  height: 200px;
 }
 
 #Italian_Chef{
@@ -36,26 +51,17 @@ h1{
   color: white;
   text-align: left;
   float: left;
-  display:inline-block;
+  display: block;
   font-family: serif;
   font-size: 15px;
 }
 
 
 body{
-  background-color: steelblue;
+  background-color: #ffff66;
 }
 
 footer{
   color: white;
   font-family: 'Montserrat', serif;
-}
-
-.chef {
-  color: black;
-  text-decoration: none;
-}
-
-.chef a {
-
 }
