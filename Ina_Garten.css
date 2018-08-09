@@ -7,6 +7,15 @@ h1{
   text-decoration: underline;
 }
 
+body{
+  background-color:#F0E68C;
+}
+
 img{
   float: left;
+}
+
+footer{
+  margin-top: 11%;
+  left: 45%;
 }
