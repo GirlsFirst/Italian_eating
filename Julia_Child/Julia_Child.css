@@ -1,0 +1,21 @@
+h1{
+  font-size: 100px;
+  text-align: center;
+  font-style: oblique;
+  font-family: 'Sacramento' cursive;
+  color: black;
+}
+
+.column {
+  width: 50%;
+  float: left;
+}
+
+.column img{
+  width: 80%;
+}
+
+footer{
+  margin-top: 11%;
+  left: 45%;
+  color: black;
