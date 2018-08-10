@@ -5,6 +5,32 @@ h1{
   font-size: 100px;
   color: white;
   text-decoration: underline;
+  padding: 0, auto;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hero-image {
+    background-image: url("https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/6/5/1/BX0204_Dinner-Spanakopitas_s4x3.jpg.rend.hgtvcom.826.620.suffix/1402082748192.jpeg");
+    height: 700px;
+    width: 1340px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding: none;
+}
+
+.hero-text{
+  font-family: 'Sacramento', cursive;
+  font-size: 900%;
+  text-decoration: underline;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 body{
@@ -16,4 +42,12 @@ img{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+#ingredients{
+  background-color: yellow;
+}
+
+#Instrcutions{
+  background-color: yellow;
 }
