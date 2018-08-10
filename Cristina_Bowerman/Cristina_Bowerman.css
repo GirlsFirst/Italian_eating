@@ -6,6 +6,10 @@ h1{
   color: black;
 }
 
+body{
+  background-color:#F0E68C;
+}
+
 .column {
   width: 50%;
   float: left;
