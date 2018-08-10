@@ -1,0 +1,23 @@
+h1{
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  font-style: oblique;
+  font-size: 100px;
+  color: black;
+  text-decoration: underline;
+}
+
+img{
+  float: center;
+}
+
+body{
+  background-color:#F0E68C;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
