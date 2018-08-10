@@ -86,3 +86,7 @@ footer{
   font-family: 'Montserrat', serif;
 
 }
+
+mark{
+  background-color: white;
+}
