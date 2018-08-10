@@ -44,10 +44,10 @@ img{
   width: 50%;
 }
 
-#ingredients{
-  background-color: yellow;
+#Ingredients{
+  text-decoration: underline;
 }
 
 #Instrcutions{
-  background-color: yellow;
+  text-decoration: underline;
 }
