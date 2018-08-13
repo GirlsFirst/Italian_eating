@@ -82,11 +82,6 @@ body{
 }
 
 footer{
-  color: white;
+  color: black;
   font-family: 'Montserrat', serif;
-
-}
-
-mark{
-  background-color: white;
 }
