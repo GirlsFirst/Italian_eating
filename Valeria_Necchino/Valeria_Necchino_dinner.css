@@ -1,0 +1,58 @@
+h1{
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  font-style: oblique;
+  font-size: 100px;
+  color: white;
+  text-decoration: underline;
+  padding: 0, auto;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+  text-decoration: underline;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hero-image {
+    background-image: url("https://gbc-cdn-public-media.azureedge.net/img69095.768x512.jpg");
+    height: 700px;
+    width: 1340px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding: none;
+}
+
+.hero-text{
+  font-family: 'Sacramento', cursive;
+  font-size: 400%;
+  text-decoration: underline;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+body{
+  background-color:#F0E68C;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#Ingredients{
+  text-decoration: underline;
+}
+
+#Instrcutions{
+  text-decoration: underline;
+}
