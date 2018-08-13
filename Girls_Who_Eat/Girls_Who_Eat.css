@@ -1,8 +1,10 @@
 h1{
-  font-size: 100px;
+  font-family: 'Sacramento', cursive;
   text-align: center;
-  font-family:'Sacramento' cursive;
+  font-style: oblique;
+  font-size: 100px;
   color: black;
+  text-decoration: underline;
 }
 
 body{
