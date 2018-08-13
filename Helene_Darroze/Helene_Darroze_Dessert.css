@@ -11,12 +11,13 @@ h1{
 
 h3{
   font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
 }
 
 h4{
-  text-align: right;
+  text-align: center;
   display: inline-block;
-  font-size: 10px;
+  font-size: 200px;
 }
 
 .hero-image {

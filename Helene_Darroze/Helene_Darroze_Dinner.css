@@ -3,7 +3,7 @@ h1{
   text-align: center;
   font-style: oblique;
   font-size: 100px;
-  color: white;
+  color: Black;
   text-decoration: underline;
   padding: 0, auto;
 }
@@ -43,12 +43,4 @@ img{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
-
-#Ingredients{
-  text-decoration: underline;
-}
-
-#Instrcutions{
-  text-decoration: underline;
 }
