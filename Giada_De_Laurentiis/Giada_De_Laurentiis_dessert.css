@@ -17,6 +17,10 @@ h4{
   font-family: 'Montserrat', sans-serif;
 }
 
+a{
+    text-decoration: none;
+}
+
 .hero-image {
     background-image: url("https://img-opt.cdn-fullscreendirect.com/giada/_image/a0e9035d40af24d9a88ff83520a0739b5d76b698bfdb2c2285bb79e5d54b6f80/cf/blog,437914,featured-image/resize,1,800,0,0,0?cb=e2eacaff46787bfeefcaa24cf35264c7");
     height: 700px;

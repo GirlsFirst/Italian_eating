@@ -17,6 +17,10 @@ h3{
   text-decoration: underline;
 }
 
+a{
+    text-decoration: none;
+}
+
 img{
   float: left;
   //background-image: url("https://hairstyles.thehairstyler.com/hairstyle_views/front_view_images/8376/original/Giada-De-Laurentiis.jpg")

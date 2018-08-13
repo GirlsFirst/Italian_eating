@@ -20,6 +20,10 @@ h4{
   font-size: 200px;
 }
 
+a{
+    text-decoration: none;
+}
+
 .hero-image {
     background-image: url("https://i2.wp.com/www.bakinglikeachef.com/wp-content/uploads/2018/04/4653B3FD-7AF3-44BA-B139-2A61E310DE2A.jpeg?resize=665%2C435&ssl=1.jpg");
     height: 700px;

@@ -17,6 +17,10 @@ h4{
   font-family: 'Montserrat', sans-serif;
 }
 
+a{
+    text-decoration: none;
+}
+
 .hero-image {
     background-image: url("https://gbc-cdn-public-media.azureedge.net/img76832.768x512.jpg");
     height: 700px;

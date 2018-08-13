@@ -13,6 +13,10 @@ h3{
   text-decoration: underline;
 }
 
+a{
+    text-decoration: none;
+}
+
 .hero-image {
     background-image: url("https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/12/9/0/JE0302H_Spicy-One-Skillet-Lasagna_s4x3.jpg.rend.hgtvcom.616.462.suffix/1512875928047.jpeg");
     height: 700px;

@@ -8,6 +8,14 @@ h1{
   color:
 }
 
+h3{
+  font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
 h4{
   font-family: 'Sacramento', cursive;
   color: black;
@@ -87,6 +95,10 @@ h4{
 
 body{
   background-color:#F0E68C;
+}
+
+p{
+  font-size: 25px;
 }
 
 footer{

@@ -11,6 +11,10 @@ h3{
   font-family: 'Montserrat', sans-serif;
 }
 
+a{
+    text-decoration: none;
+}
+
 .hero-image {
     background-image: url("https://createtv.com/CreateTV.nsf/vShowcaseBillboardByTitle/julia-julia+child+s+ratatouille/$FILE/ratatouille.jpg");
     height: 700px;
