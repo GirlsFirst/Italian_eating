@@ -8,35 +8,7 @@ h1{
   color:
 }
 
-h4{
-  font-family: 'Sacramento', cursive;
-  font-size: 35px;
-}
 
-h3{
-  font-size: 20px;
-}
-
-p{
-  font-size: 20px;
-  color: black;
-}
-
-a{
-  text-decoration: none;
-}
-
-a:link{
-  color: hotpink;
-}
-
-a:visited{
-  color: hotpink;
-}
-
-a:hover{
-  color: pink;
-}
 
 .hero-image {
     background-image: url("https://eatforum.org/content/uploads/2018/05/table_with_food_top_view_900x700.jpg");
@@ -56,7 +28,7 @@ a:hover{
   top: 50%;
   left: 50%;
   background-color: black;
-  opacity: 0.7;
+  opacity: 0.8;
   transform: translate(-50%, -50%);
   height: 350px
 }
