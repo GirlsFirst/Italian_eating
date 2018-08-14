@@ -7,6 +7,20 @@ h1{
   text-decoration: underline;
 }
 
+h3{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
+}
+
+li{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
 a{
   text-decoration: none;
 }

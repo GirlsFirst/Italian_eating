@@ -13,6 +13,14 @@ h3,h4{
   text-decoration: underline;
 }
 
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+li{
+  font-family: 'Montserrat', sans-serif;
+}
+
 a{
   text-decoration: none;
 }
@@ -27,6 +35,11 @@ a:visited{
 
 a:hover{
   color: pink;
+}
+
+p{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .hero-image {

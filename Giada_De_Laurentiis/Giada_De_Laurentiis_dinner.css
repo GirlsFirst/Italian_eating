@@ -13,6 +13,14 @@ h3{
   text-decoration: underline;
 }
 
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+li{
+  font-family: 'Montserrat', sans-serif;
+}
+
 a{
   text-decoration: none;
 }

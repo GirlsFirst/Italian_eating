@@ -5,23 +5,36 @@ h1{
   font-size: 150px;
   color: black;
   text-decoration: underline;
+  color: black;
 }
 
 h2{
-text-align: center;
-font-size: 50px;
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  font-family:'Montserrat';
+  color: black;
 }
-
 
 h3{
   display: inline-block;
-  font-size: 75px;
+  font-size: 60px;
   text-decoration: underline;
+  font-family:'Montserrat';
+  color: black;
+}
+
+h4{
+  font-size: 35px;
+  font-family:'Montserrat';
+  display:inline-block;
+  color: black;
 }
 
 h5{
-text-align: center;
-font-size: 45px;
+  text-align: center;
+  font-size: 45px;
+  color: black;
 }
 
 p{
@@ -61,11 +74,41 @@ img{
 
 
 footer{
-  margin-top: 11%;
-  left: 45%;
+  display: block;
+  margin-top: 0%;
+  float: left;
 }
 
-.dinner{
+#letters{
+  text-decoration: underline;
+  display:inline-block;
+}
+
+#dinner{
+  width: 30%;
+  height:0%;
+  display: inline-block;
+  float: left;
+  margin-right: 400px;
+}
+#dinner img {
+  height: 300px;
+  width: 500px;
+}
+
+#dessert{
+  height: 0%;
+  width:30%;
+  display: inline-block;
+  float: left;
+  margin-bottom: 300px;
+}
+#dessert img {
+  height: 300px;
+  width: 500px;
+}
+
+/*.dinner{
   width: 80%;
   height:80%;
   margin-left: auto;
