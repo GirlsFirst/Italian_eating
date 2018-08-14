@@ -17,8 +17,8 @@ font-size: 30px;
 }
 
 p{
-  font-size: 35px;
-  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-family: Montserrat;
 }
 
 h3{
@@ -32,6 +32,16 @@ h4{
   font-size: 35px;
   font-family:'Montserrat';
   display:inline-block;
+}
+
+#letters{
+  text-decoration: underline;
+  display:inline-block;
+}
+
+p{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a{
@@ -69,18 +79,13 @@ img{
 
 }
 
-
-
 footer{
   display: block;
   margin-top: 0%;
   float: left;
 }
 
-#letters{
-  text-decoration: underline;
-  display:inline-block;
-}
+
 
 #dinner{
   width: 30%;
