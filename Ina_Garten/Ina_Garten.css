@@ -10,18 +10,32 @@ h1{
 h2{
 text-align: center;
 font-size: 50px;
+font-family:'Montserrat';
+text-decoration: underline;
+font-size: 30px;
 }
 
+p{
+  font-size: 35px;
+}
 
 h3{
   display: inline-block;
-  font-size: 75px;
+  font-size: 60px;
   text-decoration: underline;
+  font-family:'Montserrat';
+}
+
+h4{
+  font-size: 35px;
+  font-family:'Montserrat';
+  display:inline-block;
 }
 
 h5{
 text-align: center;
 font-size: 45px;
+font-family:'Montserrat';
 }
 
 p{
@@ -77,4 +91,53 @@ footer{
   width:80%;
   margin-left: auto;
   margin-right: auto;
+}
+
+footer{
+  display: block;
+  margin-top: 0%;
+  float: left;
+}
+
+#letters{
+  text-decoration: underline;
+  display:inline-block;
+}
+
+#dinner{
+  width: 30%;
+  height:0%;
+  display: inline-block;
+  float: left;
+  margin-right: 400px;
+}
+#dinner img {
+  height: 300px;
+}
+
+#dessert{
+  height: 0%;
+  width:30%;
+  display: inline-block;
+  float: left;
+  margin-bottom: 300px;
+}
+#dessert img {
+  height: 300px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:link{
+  color: hotpink;
+}
+
+a:visited{
+  color: hotpink;
+}
+
+a:hover{
+  color: pink;
 }
