@@ -67,7 +67,7 @@ a:hover{
 
 #Italian{
   font-family: 'Sacramento', cursive;
-  color: white;
+  color: black;
   font-size: 50px;
   text-align: left;
   display: inline-block;
@@ -76,7 +76,7 @@ a:hover{
 
 #French{
   font-family: 'Sacramento', cursive;
-  color: white;
+  color: black;
   font-size: 50px;
   float: right;
   display: inline-block;
@@ -99,13 +99,13 @@ a:hover{
 }
 
 #Italian_Chef{
-  color: white;
+  color: black;
   text-align: left;
   display:inline-block;
 }
 
 #French_Chef{
-  color: white;
+  color: black;
   text-align: left;
   float: left;
   display:inline-block;
