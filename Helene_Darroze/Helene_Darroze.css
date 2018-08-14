@@ -71,8 +71,6 @@ img{
 
 }
 
-
-
 footer{
   display: block;
   margin-top: 0%;
@@ -93,7 +91,7 @@ footer{
 }
 #dinner img {
   height: 300px;
-  width: 500px;
+  width: 600px;
 }
 
 #dessert{
@@ -101,7 +99,7 @@ footer{
   width:30%;
   display: inline-block;
   float: left;
-  margin-bottom: 300px;
+  margin-bottom: 50px;
 }
 #dessert img {
   height: 300px;
