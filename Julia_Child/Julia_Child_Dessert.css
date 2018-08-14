@@ -12,9 +12,20 @@ h3{
 }
 
 a{
-    text-decoration: none;
+  text-decoration: none;
 }
 
+a:link{
+  color: hotpink;
+}
+
+a:visited{
+  color: hotpink;
+}
+
+a:hover{
+  color: pink;
+}
 .hero-image {
     background-image: url("https://www.monpetitfour.com/wp-content/uploads/2017/02/reine-de-saba-copy.jpg");
     height: 700px;
