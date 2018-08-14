@@ -1,38 +1,58 @@
 h1{
-  font-size: 100px;
+  font-family: 'Sacramento', cursive;
   text-align: center;
   font-style: oblique;
-  font-family: 'Sacramento' cursive;
+  font-size: 150px;
   color: black;
+  text-decoration: underline;
+}
+
+h2{
+text-align: center;
+font-size: 50px;
+
 }
 
 h3{
-  font-size: 25px;
+  display: inline-block;
+  font-size: 75px;
+  text-decoration: underline;
 }
 
-a{
-    text-decoration: none;
+h5{
+text-align: center;
+font-size: 45px;
 }
 
 body{
   background-color:#F0E68C;
 }
 
-.column {
-  width: 50%;
-  float: left;
+
+img{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+
 }
 
-.column img{
-  width: 80%;
-}
+
 
 footer{
   margin-top: 11%;
   left: 45%;
-  color: black;
 }
 
-h2{
-  font-size: 20px;
+.dinner{
+  width: 80%;
+  height:80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dessert{
+  height: 80%;
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
 }
